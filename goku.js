@@ -24,6 +24,6 @@ function gokupreto(){
     goku.src = './img/gokupreto.jpg';
 }
 
-/*goku.addEventListener( 'mouseover', gokuOn);
-goku.addEventListener('mouseleave', Gokucalv);*/
+goku.addEventListener( 'mouseover', gokuOn);
+goku.addEventListener('mouseleave', Gokucalv);
 goku.addEventListener('dblclick', gokupreto);
